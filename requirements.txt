@@ -1,5 +1,6 @@
-flask
 pyrogram
-tgcalls
+tgcrypto
+pytgcalls
 yt-dlp
 ffmpeg-python
+requests
