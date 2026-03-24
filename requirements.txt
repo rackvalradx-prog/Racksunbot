@@ -1,1 +1,5 @@
-pyTelegramBotAPI
+flask
+pyrogram
+tgcalls
+yt-dlp
+ffmpeg-python
